@@ -29,7 +29,7 @@ public class KLERFrame extends JFrame implements ActionListener, MouseListener{
         //create textarea pane
         JPanel textPane = new JPanel();
         textPane.setBorder(new EmptyBorder(0,3,0,3));
-        editArea = new JTextArea(5,40);
+        editArea = new JTextArea(8,120);
         editArea.addMouseListener(this);
         // adjust the font to a monospaced font.
         Font font = new Font(Font.MONOSPACED, Font.PLAIN, editArea.getFont().getSize());
