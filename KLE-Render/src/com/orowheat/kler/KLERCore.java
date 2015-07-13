@@ -130,7 +130,7 @@ public class KLERCore {
 							s=(numSymb?"Num":"")+s;
 							numSymb=true;
 						}
-						if(s.contains("4")){
+						if(!s.equals("F4")&&s.contains("4")){
 							s="4";
 						}
 						jl.setText("Converting "+s);
