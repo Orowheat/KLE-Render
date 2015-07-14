@@ -8,8 +8,13 @@ Copy and paste the raw data, which is found under the raw data tab, into the pro
 Import into a rendering engine of your choice and render it.
 
 To-Do List:
+
 -Fix DSA keys looking so nasty (IN PROGRESS)
+
 -Add different key profiles (currently thinking about SA/DCS/Cherry)
+
 -Fix keyboard base looking so boring
+
 -Add different keyboard formats (bigass enter, ergodox)
+
 -Add support for different fonts (unlikely)
