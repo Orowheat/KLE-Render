@@ -14,7 +14,7 @@ public class Main {
             @Override
             public void run() {
                 //create frame, add stuff to it
-                JFrame f = new KLERFrame("KLE-Render");
+                JFrame f = new KLERFrame("KLE-Render v2");
                 f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 f.setLocationByPlatform(true);
                 // ensures the frame is the minimum size it needs to be
